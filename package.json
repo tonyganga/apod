@@ -1,0 +1,15 @@
+{
+  "name": "apod",
+  "version": "1.0.0",
+  "description": "Slack bot to post APOD to channel everyday.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tonyganga",
+  "license": "MIT",
+  "dependencies": {
+    "node-apod": "^1.6.4",
+    "node-slack": "0.0.7"
+  }
+}
